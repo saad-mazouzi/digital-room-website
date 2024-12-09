@@ -12,7 +12,7 @@ const TrustedBy = () => {
           {/* Logos à défiler */}
           <img src="/Images/ambassade.png" alt="ambassade" className="h-12" />
           <img src="/Images/oncf.png" alt="oncf" className="h-12" />
-          <img src="/Images/umt.png" alt="umt" className="h-12" />
+          <img src="/Images/UMT.png" alt="UMT" className="h-12" />
           <img src="/Images/ministere-sante.png" alt="ministère santé" className="h-12" />
           <img src="/Images/lins.jpg" alt="lins" className="h-12" />
           <img src="/Images/initiative-national.png" alt="initiative national" className="h-12" />
@@ -20,31 +20,31 @@ const TrustedBy = () => {
           {/* Répétition des logos pour un défilement continu */}
           <img src="/Images/ambassade.png" alt="ambassade" className="h-12" />
           <img src="/Images/oncf.png" alt="oncf" className="h-12" />
-          <img src="/Images/umt.png" alt="umt" className="h-12" />
+          <img src="/Images/UMT.png" alt="UMT" className="h-12" />
           <img src="/Images/ministere-sante.png" alt="ministère santé" className="h-12" />
           <img src="/Images/lins.jpg" alt="lins" className="h-12" />
           <img src="/Images/initiative-national.png" alt="initiative national" className="h-12" />
           <img src="/Images/boukhris.jpg" alt="boukhris" className="h-12" /><img src="/Images/ambassade.png" alt="ambassade" className="h-12" />
           <img src="/Images/oncf.png" alt="oncf" className="h-12" />
-          <img src="/Images/umt.png" alt="umt" className="h-12" />
+          <img src="/Images/UMT.png" alt="UMT" className="h-12" />
           <img src="/Images/ministere-sante.png" alt="ministère santé" className="h-12" />
           <img src="/Images/lins.jpg" alt="lins" className="h-12" />
           <img src="/Images/initiative-national.png" alt="initiative national" className="h-12" />
           <img src="/Images/boukhris.jpg" alt="boukhris" className="h-12" /><img src="/Images/ambassade.png" alt="ambassade" className="h-12" />
           <img src="/Images/oncf.png" alt="oncf" className="h-12" />
-          <img src="/Images/umt.png" alt="umt" className="h-12" />
+          <img src="/Images/UMT.png" alt="UMT" className="h-12" />
           <img src="/Images/ministere-sante.png" alt="ministère santé" className="h-12" />
           <img src="/Images/lins.jpg" alt="lins" className="h-12" />
           <img src="/Images/initiative-national.png" alt="initiative national" className="h-12" />
           <img src="/Images/boukhris.jpg" alt="boukhris" className="h-12" /><img src="/Images/ambassade.png" alt="ambassade" className="h-12" />
           <img src="/Images/oncf.png" alt="oncf" className="h-12" />
-          <img src="/Images/umt.png" alt="umt" className="h-12" />
+          <img src="/Images/UMT.png" alt="UMT" className="h-12" />
           <img src="/Images/ministere-sante.png" alt="ministère santé" className="h-12" />
           <img src="/Images/lins.jpg" alt="lins" className="h-12" />
           <img src="/Images/initiative-national.png" alt="initiative national" className="h-12" />
           <img src="/Images/boukhris.jpg" alt="boukhris" className="h-12" /><img src="/Images/ambassade.png" alt="ambassade" className="h-12" />
           <img src="/Images/oncf.png" alt="oncf" className="h-12" />
-          <img src="/Images/umt.png" alt="umt" className="h-12" />
+          <img src="/Images/UMT.png" alt="UMT" className="h-12" />
           <img src="/Images/ministere-sante.png" alt="ministère santé" className="h-12" />
           <img src="/Images/lins.jpg" alt="lins" className="h-12" />
           <img src="/Images/initiative-national.png" alt="initiative national" className="h-12" />
