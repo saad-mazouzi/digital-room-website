@@ -5,6 +5,8 @@ import Highlights from './Component/Highlights';
 import AboutUs from './Component/AboutUs';
 import Values from './Component/Values';
 import Services from './Component/Services';
+import TrustedBy from './Component/TrustedBy';
+import ContactForm from './Component/ContactForm';
 
 function App() {
   return (
@@ -16,6 +18,8 @@ function App() {
       <AboutUs />
       <Values />
       <Services />
+      <TrustedBy />
+      <ContactForm />
       </main>
     </div>
   );
