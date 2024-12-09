@@ -10,56 +10,45 @@ const TrustedBy = () => {
         {/* Conteneur principal */}
         <div className="flex animate-scroll space-x-10 w-max">
           {/* Logos à défiler */}
-          <img src="/images/ambassade.png" alt="Jumia" className="h-12" />
-          <img src="/images/oncf.png" alt="Adidas" className="h-12" />
-          <img src="/images/umt.png" alt="L'Oréal" className="h-12" />
-          <img src="/images/ministere-sante.png" alt="Bosch" className="h-12" />
-          <img src="/images/lins.jpg" alt="Valeo" className="h-12" />
-          <img src="/images/initiative-national.png" alt="Danone" className="h-12" />
-          <img src="/images/boukhris.jpg" alt="Nivea" className="h-12" />
+          <img src="/images/ambassade.png" alt="ambassade" className="h-12" />
+          <img src="/images/oncf.png" alt="oncf" className="h-12" />
+          <img src="/images/umt.png" alt="umt" className="h-12" />
+          <img src="/images/ministere-sante.png" alt="ministère santé" className="h-12" />
+          <img src="/images/lins.jpg" alt="lins" className="h-12" />
+          <img src="/images/initiative-national.png" alt="initiative national" className="h-12" />
+          <img src="/images/boukhris.jpg" alt="boukhris" className="h-12" />
           {/* Répétition des logos pour un défilement continu */}
-          <img src="/images/ambassade.png" alt="Jumia" className="h-12" />
-          <img src="/images/oncf.png" alt="Adidas" className="h-12" />
-          <img src="/images/umt.png" alt="L'Oréal" className="h-12" />
-          <img src="/images/ministere-sante.png" alt="Bosch" className="h-12" />
-          <img src="/images/lins.jpg" alt="Valeo" className="h-12" />
-          <img src="/images/initiative-national.png" alt="Danone" className="h-12" />
-          <img src="/images/boukhris.jpg" alt="Nivea" className="h-12" />
-          <img src="/images/ambassade.png" alt="Jumia" className="h-12" />
-          <img src="/images/oncf.png" alt="Adidas" className="h-12" />
-          <img src="/images/umt.png" alt="L'Oréal" className="h-12" />
-          <img src="/images/ministere-sante.png" alt="Bosch" className="h-12" />
-          <img src="/images/lins.jpg" alt="Valeo" className="h-12" />
-          <img src="/images/initiative-national.png" alt="Danone" className="h-12" />
-          <img src="/images/boukhris.jpg" alt="Nivea" className="h-12" />
-          <img src="/images/ambassade.png" alt="Jumia" className="h-12" />
-          <img src="/images/oncf.png" alt="Adidas" className="h-12" />
-          <img src="/images/umt.png" alt="L'Oréal" className="h-12" />
-          <img src="/images/ministere-sante.png" alt="Bosch" className="h-12" />
-          <img src="/images/lins.jpg" alt="Valeo" className="h-12" />
-          <img src="/images/initiative-national.png" alt="Danone" className="h-12" />
-          <img src="/images/boukhris.jpg" alt="Nivea" className="h-12" />
-          <img src="/images/ambassade.png" alt="Jumia" className="h-12" />
-          <img src="/images/oncf.png" alt="Adidas" className="h-12" />
-          <img src="/images/umt.png" alt="L'Oréal" className="h-12" />
-          <img src="/images/ministere-sante.png" alt="Bosch" className="h-12" />
-          <img src="/images/lins.jpg" alt="Valeo" className="h-12" />
-          <img src="/images/initiative-national.png" alt="Danone" className="h-12" />
-          <img src="/images/boukhris.jpg" alt="Nivea" className="h-12" />
-          <img src="/images/ambassade.png" alt="Jumia" className="h-12" />
-          <img src="/images/oncf.png" alt="Adidas" className="h-12" />
-          <img src="/images/umt.png" alt="L'Oréal" className="h-12" />
-          <img src="/images/ministere-sante.png" alt="Bosch" className="h-12" />
-          <img src="/images/lins.jpg" alt="Valeo" className="h-12" />
-          <img src="/images/initiative-national.png" alt="Danone" className="h-12" />
-          <img src="/images/boukhris.jpg" alt="Nivea" className="h-12" />
-          <img src="/images/ambassade.png" alt="Jumia" className="h-12" />
-          <img src="/images/oncf.png" alt="Adidas" className="h-12" />
-          <img src="/images/umt.png" alt="L'Oréal" className="h-12" />
-          <img src="/images/ministere-sante.png" alt="Bosch" className="h-12" />
-          <img src="/images/lins.jpg" alt="Valeo" className="h-12" />
-          <img src="/images/initiative-national.png" alt="Danone" className="h-12" />
-          <img src="/images/boukhris.jpg" alt="Nivea" className="h-12" />
+          <img src="/images/ambassade.png" alt="ambassade" className="h-12" />
+          <img src="/images/oncf.png" alt="oncf" className="h-12" />
+          <img src="/images/umt.png" alt="umt" className="h-12" />
+          <img src="/images/ministere-sante.png" alt="ministère santé" className="h-12" />
+          <img src="/images/lins.jpg" alt="lins" className="h-12" />
+          <img src="/images/initiative-national.png" alt="initiative national" className="h-12" />
+          <img src="/images/boukhris.jpg" alt="boukhris" className="h-12" /><img src="/images/ambassade.png" alt="ambassade" className="h-12" />
+          <img src="/images/oncf.png" alt="oncf" className="h-12" />
+          <img src="/images/umt.png" alt="umt" className="h-12" />
+          <img src="/images/ministere-sante.png" alt="ministère santé" className="h-12" />
+          <img src="/images/lins.jpg" alt="lins" className="h-12" />
+          <img src="/images/initiative-national.png" alt="initiative national" className="h-12" />
+          <img src="/images/boukhris.jpg" alt="boukhris" className="h-12" /><img src="/images/ambassade.png" alt="ambassade" className="h-12" />
+          <img src="/images/oncf.png" alt="oncf" className="h-12" />
+          <img src="/images/umt.png" alt="umt" className="h-12" />
+          <img src="/images/ministere-sante.png" alt="ministère santé" className="h-12" />
+          <img src="/images/lins.jpg" alt="lins" className="h-12" />
+          <img src="/images/initiative-national.png" alt="initiative national" className="h-12" />
+          <img src="/images/boukhris.jpg" alt="boukhris" className="h-12" /><img src="/images/ambassade.png" alt="ambassade" className="h-12" />
+          <img src="/images/oncf.png" alt="oncf" className="h-12" />
+          <img src="/images/umt.png" alt="umt" className="h-12" />
+          <img src="/images/ministere-sante.png" alt="ministère santé" className="h-12" />
+          <img src="/images/lins.jpg" alt="lins" className="h-12" />
+          <img src="/images/initiative-national.png" alt="initiative national" className="h-12" />
+          <img src="/images/boukhris.jpg" alt="boukhris" className="h-12" /><img src="/images/ambassade.png" alt="ambassade" className="h-12" />
+          <img src="/images/oncf.png" alt="oncf" className="h-12" />
+          <img src="/images/umt.png" alt="umt" className="h-12" />
+          <img src="/images/ministere-sante.png" alt="ministère santé" className="h-12" />
+          <img src="/images/lins.jpg" alt="lins" className="h-12" />
+          <img src="/images/initiative-national.png" alt="initiative national" className="h-12" />
+          <img src="/images/boukhris.jpg" alt="boukhris" className="h-12" />
         </div>
       </div>
       <style>
