@@ -17,38 +17,44 @@ const TrustedBy = () => {
           <img src="/Images/lins.jpg" alt="lins" className="h-12" />
           <img src="/Images/initiative-national.png" alt="initiative national" className="h-12" />
           <img src="/Images/boukhris.jpg" alt="boukhris" className="h-12" />
-          {/* Répétition des logos pour un défilement continu */}
+          <img src="/Images/western.jpg" alt="western" className="h-12" />
+          <img src="/Images/mega.jpg" alt="western" className="h-12" />
+          <img src="/Images/loyal.jpg" alt="western" className="h-12" />
+          <img src="/Images/grill.jpg" alt="western" className="h-12" />
+          <img src="/Images/coffe.jpg" alt="western" className="h-12" />
+          <img src="/Images/matina.jpg" alt="western" className="h-12" />
+          <img src="/Images/eyewish.jpg" alt="western" className="h-12" />
+          <img src="/Images/redman.jpg" alt="western" className="h-12" />
+          <img src="/Images/skill.jpg" alt="western" className="h-12" />
+          <img src="/Images/caffelou.jpg" alt="western" className="h-12" />
+          <img src="/Images/opticdiali.jpg" alt="western" className="h-12" />
+          <img src="/Images/asmaa.jpg" alt="western" className="h-12" />
+          <img src="/Images/comptoire.jpg" alt="western" className="h-12" />
+          <img src="/Images/yaakoubi.jpg" alt="western" className="h-12" />
+          <img src="/Images/two.jpg" alt="western" className="h-12" />
+          {/*Répitition */}
           <img src="/Images/ambassade.png" alt="ambassade" className="h-12" />
           <img src="/Images/oncf.png" alt="oncf" className="h-12" />
           <img src="/Images/UMT.png" alt="UMT" className="h-12" />
           <img src="/Images/ministere-sante.png" alt="ministère santé" className="h-12" />
           <img src="/Images/lins.jpg" alt="lins" className="h-12" />
           <img src="/Images/initiative-national.png" alt="initiative national" className="h-12" />
-          <img src="/Images/boukhris.jpg" alt="boukhris" className="h-12" /><img src="/Images/ambassade.png" alt="ambassade" className="h-12" />
-          <img src="/Images/oncf.png" alt="oncf" className="h-12" />
-          <img src="/Images/UMT.png" alt="UMT" className="h-12" />
-          <img src="/Images/ministere-sante.png" alt="ministère santé" className="h-12" />
-          <img src="/Images/lins.jpg" alt="lins" className="h-12" />
-          <img src="/Images/initiative-national.png" alt="initiative national" className="h-12" />
-          <img src="/Images/boukhris.jpg" alt="boukhris" className="h-12" /><img src="/Images/ambassade.png" alt="ambassade" className="h-12" />
-          <img src="/Images/oncf.png" alt="oncf" className="h-12" />
-          <img src="/Images/UMT.png" alt="UMT" className="h-12" />
-          <img src="/Images/ministere-sante.png" alt="ministère santé" className="h-12" />
-          <img src="/Images/lins.jpg" alt="lins" className="h-12" />
-          <img src="/Images/initiative-national.png" alt="initiative national" className="h-12" />
-          <img src="/Images/boukhris.jpg" alt="boukhris" className="h-12" /><img src="/Images/ambassade.png" alt="ambassade" className="h-12" />
-          <img src="/Images/oncf.png" alt="oncf" className="h-12" />
-          <img src="/Images/UMT.png" alt="UMT" className="h-12" />
-          <img src="/Images/ministere-sante.png" alt="ministère santé" className="h-12" />
-          <img src="/Images/lins.jpg" alt="lins" className="h-12" />
-          <img src="/Images/initiative-national.png" alt="initiative national" className="h-12" />
-          <img src="/Images/boukhris.jpg" alt="boukhris" className="h-12" /><img src="/Images/ambassade.png" alt="ambassade" className="h-12" />
-          <img src="/Images/oncf.png" alt="oncf" className="h-12" />
-          <img src="/Images/UMT.png" alt="UMT" className="h-12" />
-          <img src="/Images/ministere-sante.png" alt="ministère santé" className="h-12" />
-          <img src="/Images/lins.jpg" alt="lins" className="h-12" />
-          <img src="/Images/initiative-national.png" alt="initiative national" className="h-12" />
           <img src="/Images/boukhris.jpg" alt="boukhris" className="h-12" />
+          <img src="/Images/western.jpg" alt="western" className="h-12" />
+          <img src="/Images/mega.jpg" alt="western" className="h-12" />
+          <img src="/Images/loyal.jpg" alt="western" className="h-12" />
+          <img src="/Images/grill.jpg" alt="western" className="h-12" />
+          <img src="/Images/coffe.jpg" alt="western" className="h-12" />
+          <img src="/Images/matina.jpg" alt="western" className="h-12" />
+          <img src="/Images/eyewish.jpg" alt="western" className="h-12" />
+          <img src="/Images/redman.jpg" alt="western" className="h-12" />
+          <img src="/Images/skill.jpg" alt="western" className="h-12" />
+          <img src="/Images/caffelou.jpg" alt="western" className="h-12" />
+          <img src="/Images/opticdiali.jpg" alt="western" className="h-12" />
+          <img src="/Images/asmaa.jpg" alt="western" className="h-12" />
+          <img src="/Images/comptoire.jpg" alt="western" className="h-12" />
+          <img src="/Images/yaakoubi.jpg" alt="western" className="h-12" />
+          <img src="/Images/two.jpg" alt="western" className="h-12" />
         </div>
       </div>
       <style>

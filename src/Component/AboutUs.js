@@ -39,25 +39,15 @@ const AboutUs = () => {
             Qui sommes-nous ?
           </h2>
           <p className="text-md leading-relaxed mb-4">
-            Fondée en 2018, <span className="font-bold">RHILLANE Marketing Digital</span> est une{" "}
-            <span className="font-bold">
-              agence de communication digitale leader située à Tanger, au Maroc.
-            </span>
-          </p>
-          <p className="text-md leading-relaxed mb-4">
-            Les missions d’une <span className="font-bold">agence de communication Maroc</span>{" "}
-            normale sont de concevoir, planifier et mettre en œuvre des stratégies de
-            communication efficaces.
-          </p>
-          <p className="text-md leading-relaxed mb-4">
-            Notre mission à nous, par contre, est de créer des solutions
-            personnalisées et innovantes pour nos clients.
-          </p>
-          <p className="text-md leading-relaxed">
-            Aujourd’hui, plus de 150 entreprises sur 4 continents font confiance à
-            notre agence de communication pour utiliser nos services et notre
-            assistance. Elles transforment ainsi la manière dont elles attirent les
-            clients grâce à une stratégie de communication puissante.
+          Digital Room est une agence de <span className="font-bold">marketing digital, photographie et imprimerie</span> qui se positionne comme un partenaire clé pour le succès en ligne de ses clients.
+          Elle combine innovation, créativité et expertise pour transformer des idées en résultats tangibles. L'agence se présente comme un allié stratégique pour concevoir et exécuter des projets sur mesure, intégrant des services variés tels que :
+          Stratégie digitale
+          Publicité en ligne 
+          <span className="font-bold"> SEO (Optimisation des moteurs de recherche)</span>
+          <span className="font-bold"> Photographie événementielle, produits, et publicité
+          Infographie et création graphique
+          Impression numérique et offset. </span>
+          L'agence met également en avant son approche personnalisée et son engagement envers l'excellence et la réactivité.
           </p>
           <div className="mt-6 text-center">
             {/* Logo */}

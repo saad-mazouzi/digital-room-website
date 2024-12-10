@@ -67,8 +67,7 @@ const ContactForm = () => {
             <div>
               <h4 className="font-semibold text-lg mb-2">Visitez nos locaux</h4>
               <p className="text-sm">
-                5ème étage, Nº27, Akram Offices, Av. Arabie Saoudite, Tangier
-                90000
+                AVENUE ANTARA VALFEURY RESIDENCE MARINA LOT 1 BUREAU N6
               </p>
             </div>
           </div>
@@ -78,15 +77,15 @@ const ContactForm = () => {
               <h4 className="font-semibold text-lg mb-2">
                 Connectez-vous avec nous
               </h4>
-              <p className="text-sm">contact@digitalroom.com</p>
+              <p className="text-sm">digitalroom1@gmail.com</p>
+              <p className="text-sm">digitalroomagency@outlook.com</p>
             </div>
           </div>
           <div className="flex items-start">
             <FaPhoneAlt className="text-yellow-500 text-2xl mr-4" />
             <div>
               <h4 className="font-semibold text-lg mb-2">Appelez-nous</h4>
-              <p className="text-sm">+212 663-091166</p>
-              <p className="text-sm">+212 664-738086</p>
+              <p className="text-sm">+212 673-871481</p>
             </div>
           </div>
         </div>
